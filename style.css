@@ -1,0 +1,14 @@
+
+.barra_superior{
+    height: 50px;
+    width: 100%;
+    background-color: powderblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: xx-large;
+}
+#menuVertical{
+    vertical-align: inherit;
+    width: 25%;
+    background-color: lavender;
+  
+}
